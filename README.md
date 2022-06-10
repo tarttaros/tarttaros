@@ -1,7 +1,7 @@
 Hi 👋 My name is Joshua Alexander
 =================================
 
-Back-End Developer
+Developer
 ------------------
 
 * 🌍  I'm based in Colombia
